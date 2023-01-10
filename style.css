@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#nav-top{
+    padding: 0px 10%;
+}
+.nav-item{
+    padding-left: 17px;
+    font-size: 100%;
+    margin-right: 30px;
+    font-weight: bold;
+}
+.carousel-item img{
+    height: 80vh;
+}
+big{
+    font-size: 170%;
+}
+.cont1{
+    position: relative;
+    left: 16%;
+    top: 30px;
+}
+.btn{
+    margin-left: 56px;
+}
